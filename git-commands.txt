@@ -23,3 +23,5 @@ and then just set url for newly added repo for same project
 
 and add token to it
 
+I am doing changes through github
+
