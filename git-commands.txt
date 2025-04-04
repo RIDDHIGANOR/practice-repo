@@ -1,0 +1,19 @@
+ git init - initializes repo
+ git status - untracked and after init and before adding to git / vcs it will still remain in file system
+ git add testing.py - now after adding it will go to staged state and still it is untracked
+ git rm --cached testing.py - now we can take it back to file system by using this command
+ git commit -m "Added file" - and after adding we need to commit it to git now its tracked file file git
+ rm testing.py - so now even though deleting it from file system we can restore it back from git
+ git status 
+ git restore testing.py
+ ls
+ git status
+
+
+ Now create github account and create new repositiry to it 
+ Now as we have created folder and initializes it to empty repo, in github we dont need to intitialize it.
+Now we have to push our locally present code to github repo but for that we need access so we will create and use personal 
+access tocken ie PAT and we will give access to github repo
+
+But before that we will add that remote repo to local one  - git remote add origin https://github.com/RIDDHIGANOR/github-for-devops.git
+ To check repo added or not - git remote -v
