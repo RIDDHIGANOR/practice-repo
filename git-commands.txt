@@ -17,3 +17,9 @@ access tocken ie PAT and we will give access to github repo
 
 But before that we will add that remote repo to local one  - git remote add origin https://github.com/RIDDHIGANOR/github-for-devops.git
  To check repo added or not - git remote -v
+
+Yu just need to remote add origin for once to single project 
+and then just set url for newly added repo for same project
+
+and add token to it
+
