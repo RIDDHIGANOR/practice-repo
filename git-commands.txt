@@ -37,3 +37,4 @@ riddhi@RiddhiGanorkar:~/github-for-devops$ git branch
 * dev
   master
 
+copy of same repo called as branches
