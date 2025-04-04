@@ -25,3 +25,15 @@ and add token to it
 
 I am doing changes through github
 
+riddhi@RiddhiGanorkar:~/github-for-devops$ git branch
+* master
+riddhi@RiddhiGanorkar:~/github-for-devops$ git branch dev
+riddhi@RiddhiGanorkar:~/github-for-devops$ git branch
+  dev
+* master
+riddhi@RiddhiGanorkar:~/github-for-devops$ git switch dev
+Switched to branch 'dev'
+riddhi@RiddhiGanorkar:~/github-for-devops$ git branch
+* dev
+  master
+
